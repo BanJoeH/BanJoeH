@@ -1,16 +1,44 @@
-## Hi there 👋
+# Joe Harrison
 
-<!--
-**BanJoeH/BanJoeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack developer working mainly with TypeScript, React and AWS.
 
-Here are some ideas to get you started:
+I build and operate web products across frontend development, APIs, databases,
+cloud infrastructure and production support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfolio](https://joescript.io)
+- [CV](https://joescript.io/cv.pdf)
+- [LinkedIn](https://www.linkedin.com/in/joescript/)
+
+## Selected work
+
+### Pantri
+
+A shared pantry for recipes, cooking and the weekly shop.
+
+[Case study](https://joescript.io/work/pantri) ·
+[Live application](https://pantri.joescript.io) ·
+[Source](https://github.com/BanJoeH/joescript/tree/main/apps/pantri)
+
+### Garden
+
+A garden journal for tracking plants, areas and recurring care.
+
+[Case study](https://joescript.io/work/garden) ·
+[Live application](https://garden.joescript.io) ·
+[Source](https://github.com/BanJoeH/joescript/tree/main/apps/garden)
+
+### Momentum
+
+A workout journal focused on recording useful sessions rather than maintaining streaks.
+
+[Case study](https://joescript.io/work/momentum) ·
+[Live application](https://momentum.joescript.io) ·
+[Source](https://github.com/BanJoeH/joescript/tree/main/apps/momentum)
+
+## Commercial work
+
+Most of my recent commercial work is held in private repositories under an
+employer-managed GitHub account.
+
+My public portfolio includes a case study covering a reporting-system rebuild:
+[Rebuilding a reporting system without buying a new database](YOUR_CASE_STUDY_URL).
