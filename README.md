@@ -41,4 +41,4 @@ Most of my recent commercial work is held in private repositories under an
 employer-managed GitHub account.
 
 My public portfolio includes a case study covering a reporting-system rebuild:
-[Rebuilding a reporting system without buying a new database](YOUR_CASE_STUDY_URL).
+[Rebuilding a reporting system without buying a new database](https://joescript.io/case-studies/reporting).
